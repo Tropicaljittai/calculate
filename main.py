@@ -42,4 +42,4 @@ while p == True:
           p = False
     
     else:
-        print("Invalid Input")
+        print("Enter from 1 - 4")
